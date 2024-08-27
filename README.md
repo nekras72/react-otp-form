@@ -7,14 +7,13 @@ The `OtpForm` component is a customizable and flexible OTP (One-Time Password) i
 To install the component, use npm:
 
 ```bash
-npm install otp-react-form
+npm install react-otp-form
 ```
 
 ## Usage
 
 ```bash
-import React from 'react';
-import OtpForm from 'otp-form-component';
+import OtpForm from 'react-otp-form';
 
 const MyComponent = () => {
 const handleSubmit = (otpValue) => {
